@@ -13,13 +13,13 @@
 
 <p align="center">
    
-<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/profileissufibadji?style=flat-square">
+<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/issufibadji/pontosTuristicosRiodeJaneiro?style=flat-square">
 
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/profileissufibadji?style=flat-square">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/issufibadji/pontosTuristicosRiodeJaneiro?style=flat-square">
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/profileissufibadji?style=flat-square">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/issufibadji/pontosTuristicosRiodeJaneiro?style=flat-square">
 
-<img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/profileissufibadji?style=flat-square">
+<img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/pontosTuristicosRiodeJaneiro?style=flat-square">
 </p>
 
 ![profile](https://user-images.githubusercontent.com/45535344/177909244-28c6dbdb-c941-45e9-b54e-3e9b1cc959ae.gif)
