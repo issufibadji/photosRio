@@ -30,7 +30,7 @@ O **Fotos de 10 pontos turísticos do Rio de janeiro**
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
->https://github.com/issufibadji/pontosTuristicosRiodeJaneiro
+>https://issufibadji.github.io/pontosTuristicosRiodeJaneiro/
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
