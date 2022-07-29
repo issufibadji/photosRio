@@ -1,6 +1,6 @@
 
 <h1 align="center" color=" ">
-   Pontos turísticos Rio de Janeiro
+   Pontos Turísticos Rio de Janeiro
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/pontosTuristicosRiodeJaneiro?style=flat-square">
 </p>
 
-![profile](https://user-images.githubusercontent.com/45535344/177909244-28c6dbdb-c941-45e9-b54e-3e9b1cc959ae.gif)
+![fotorio](https://user-images.githubusercontent.com/45535344/181770800-b1d3989d-5349-47c9-b234-4cb8d2202529.gif)
  
 ## :book: Sobre
 O **Fotos de 10 pontos turísticos do Rio de janeiro**
